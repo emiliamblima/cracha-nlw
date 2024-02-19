@@ -1,5 +1,5 @@
 const LinksSocialMedia = {
-  github: 'emiliamenezes',
+  github: 'emiliamblima',
   youtube: '',
   facebook: '',
   instagram: '',
